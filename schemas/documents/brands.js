@@ -17,8 +17,8 @@ export default {
       type: 'string'
     },
     {
-      name: 'nombre',
-      title: 'Nombre',
+      name: 'name',
+      title: 'Name',
       type: 'string'
     }
   ]
